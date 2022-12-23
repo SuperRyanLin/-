@@ -1,14 +1,3 @@
----
-tags: Problems
-type: slide
----
-
-<style>
-    .reveal {
-        font-size: 28px;
-    }
-</style>
-
 # 師大附中資訊校隊模擬競賽 I 題解
 
 ---
