@@ -641,7 +641,7 @@ int main() {
 以下都是題外話 (TL, DR)  
 所以說讓九子到底為什麼不能再讓先？  
 以下圖為例...  
-![](https://i.imgur.com/LVk0gEZ.jpg =500x)
+![image](https://github.com/SuperRyanLin/Problem_Generating_Chess/blob/main/讓九子一先.jpg)
 
 ----
 
